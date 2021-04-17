@@ -42,10 +42,20 @@
 
 ![33](https://user-images.githubusercontent.com/56239989/115127577-b6f73d80-a001-11eb-95dc-7389cc7f95d6.jpg)
 
-- Kemudian tambahkan kode css berikut untuk membuat Layoutnya :
+- **Kemudian tambahkan kode css berikut untuk membuat Layoutnya :**
 
 ![11](https://user-images.githubusercontent.com/56239989/115127754-39ccc800-a003-11eb-8f46-ba177201f496.jpg)
 
-- Maka Hasilnya akan seperti ini :
+- **Maka Hasilnya akan seperti ini :**
 
 ![22](https://user-images.githubusercontent.com/56239989/115127766-4e10c500-a003-11eb-8306-9f2b8a28f769.jpg)
+
+## Membuat navigasi
+
+**1. Selanjutnya masukan kode berikut untuk mengatur navigasi pada css :**
+
+![11](https://user-images.githubusercontent.com/56239989/115127803-b2cc1f80-a003-11eb-973f-55116da30dae.jpg)
+
+- **Hasilnya :**
+
+![22](https://user-images.githubusercontent.com/56239989/115127810-be1f4b00-a003-11eb-83be-3ca9f7a3ff22.jpg)
