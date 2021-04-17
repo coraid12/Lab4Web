@@ -122,3 +122,17 @@
 - **Hasilnya :**
 
 ![33](https://user-images.githubusercontent.com/56239989/115128475-325bed80-a008-11eb-8e42-e86424fe6011.jpg)
+
+## Menambah Content Artikel
+
+- **HTML**
+
+![11](https://user-images.githubusercontent.com/56239989/115128576-f6755800-a008-11eb-9801-a75cbcf04c75.jpg)
+
+- **CSS**
+
+![22](https://user-images.githubusercontent.com/56239989/115128579-faa17580-a008-11eb-8b06-4b64468b2c69.jpg)
+
+- **Hasilnya :**
+
+![33](https://user-images.githubusercontent.com/56239989/115128582-fffec000-a008-11eb-96bf-a3adf28f3239.jpg)
