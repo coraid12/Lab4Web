@@ -59,3 +59,22 @@
 - **Hasilnya :**
 
 ![22](https://user-images.githubusercontent.com/56239989/115127810-be1f4b00-a003-11eb-83be-3ca9f7a3ff22.jpg)
+
+## Membuat Panel Hero
+
+1. Selanjutnya tambahkan kode HTML dan CSS seperti berikut :
+
+- HTML
+
+![11](https://user-images.githubusercontent.com/56239989/115128065-641f8500-a005-11eb-94f1-b14d951abe65.jpg)
+
+- CSS
+
+![22](https://user-images.githubusercontent.com/56239989/115128069-6b469300-a005-11eb-8d27-61ad3bbc0490.jpg)
+
+- Hasilnya :
+
+![33](https://user-images.githubusercontent.com/56239989/115128071-73063780-a005-11eb-844e-a4b56b80b5d6.jpg)
+
+
+
