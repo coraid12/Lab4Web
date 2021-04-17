@@ -62,19 +62,40 @@
 
 ## Membuat Panel Hero
 
-1. Selanjutnya tambahkan kode HTML dan CSS seperti berikut :
+**1. Selanjutnya tambahkan kode HTML dan CSS seperti berikut :**
 
-- HTML
+- **HTML**
 
 ![11](https://user-images.githubusercontent.com/56239989/115128065-641f8500-a005-11eb-94f1-b14d951abe65.jpg)
 
-- CSS
+-** CSS**
 
 ![22](https://user-images.githubusercontent.com/56239989/115128069-6b469300-a005-11eb-8d27-61ad3bbc0490.jpg)
 
-- Hasilnya :
+- **Hasilnya :**
 
 ![33](https://user-images.githubusercontent.com/56239989/115128071-73063780-a005-11eb-844e-a4b56b80b5d6.jpg)
 
+## Mengatur Layout Main dan Sidebar
+
+**1. tambahkan CSS float berikut :**
+
+![11](https://user-images.githubusercontent.com/56239989/115128162-017ab900-a006-11eb-958b-1ce90c3fb618.jpg)
+
+## Membuat sidebar widget
+
+**1. tambahkan element lain dalam side bar dengan kode berikut :**
+
+- **HTML**
+
+![11](https://user-images.githubusercontent.com/56239989/115128242-9d0c2980-a006-11eb-834e-67dfc6e5db8c.jpg)
+
+- **CSS**
+
+![22](https://user-images.githubusercontent.com/56239989/115128246-a1384700-a006-11eb-9a0f-9636508f1a5f.jpg)\
+
+- **Hasilnya :**
+
+![33](https://user-images.githubusercontent.com/56239989/115128253-a7c6be80-a006-11eb-9c69-c61009b89299.jpg)
 
 
