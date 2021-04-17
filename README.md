@@ -68,7 +68,7 @@
 
 ![11](https://user-images.githubusercontent.com/56239989/115128065-641f8500-a005-11eb-94f1-b14d951abe65.jpg)
 
--** CSS**
+- **CSS**
 
 ![22](https://user-images.githubusercontent.com/56239989/115128069-6b469300-a005-11eb-8d27-61ad3bbc0490.jpg)
 
@@ -98,4 +98,27 @@
 
 ![33](https://user-images.githubusercontent.com/56239989/115128253-a7c6be80-a006-11eb-9c69-c61009b89299.jpg)
 
+## Membuat Footer
 
+1. Tambahkan CSS untuk Footer
+
+![11](https://user-images.githubusercontent.com/56239989/115128314-202d7f80-a007-11eb-84f1-3534af1b872f.jpg)
+
+- **Hasilnya :**
+
+![22](https://user-images.githubusercontent.com/56239989/115128316-26bbf700-a007-11eb-99a2-49d8161c56ea.jpg)
+
+## Menambahkan Elemen lain pada main content
+
+- **HTML**
+
+![11](https://user-images.githubusercontent.com/56239989/115128470-2708c200-a008-11eb-8606-f15395d06ce5.jpg)
+
+- **CSS**
+
+![22](https://user-images.githubusercontent.com/56239989/115128473-2b34df80-a008-11eb-939c-25cb9bb976b9.jpg)
+
+
+- **Hasilnya :**
+
+![33](https://user-images.githubusercontent.com/56239989/115128475-325bed80-a008-11eb-8e42-e86424fe6011.jpg)
