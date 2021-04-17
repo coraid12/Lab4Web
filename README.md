@@ -28,4 +28,24 @@
 
 ![33](https://user-images.githubusercontent.com/56239989/115127413-7d720280-a000-11eb-8d94-5abdb7ea7675.jpg)
 
-4.Membuat Layout sederhana
+## Membuat Layout sederhana
+
+**1. Buat file baru bernama home.html kemudian buat kerangka dengan semantics element seperti berikut**
+
+![11](https://user-images.githubusercontent.com/56239989/115127562-a21aaa00-a001-11eb-9c80-34258d1b808d.jpg)
+
+- **dan masukan kode berikut :**
+
+![22](https://user-images.githubusercontent.com/56239989/115127569-ae9f0280-a001-11eb-8f0d-5dc58904c682.jpg)
+
+- **Hasilnya :**
+
+![33](https://user-images.githubusercontent.com/56239989/115127577-b6f73d80-a001-11eb-95dc-7389cc7f95d6.jpg)
+
+- Kemudian tambahkan kode css berikut untuk membuat Layoutnya :
+
+![11](https://user-images.githubusercontent.com/56239989/115127754-39ccc800-a003-11eb-8f46-ba177201f496.jpg)
+
+- Maka Hasilnya akan seperti ini :
+
+![22](https://user-images.githubusercontent.com/56239989/115127766-4e10c500-a003-11eb-8306-9f2b8a28f769.jpg)
