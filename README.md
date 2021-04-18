@@ -142,7 +142,7 @@
 
 ![1](https://user-images.githubusercontent.com/56239989/115128783-6afcc680-a00a-11eb-9f9a-8b6abdb8d802.jpg)
 
-##Membuat tombol push untuk mengarahkan ke masing - masing Layout/halaman
+## Membuat tombol push untuk mengarahkan ke masing - masing Layout/halaman
 
 ![11](https://user-images.githubusercontent.com/56239989/115130148-35120f00-a017-11eb-96c4-321e1f8c35e2.jpg)
 
