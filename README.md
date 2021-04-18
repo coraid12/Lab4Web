@@ -146,6 +146,10 @@
 
 ![11](https://user-images.githubusercontent.com/56239989/115130148-35120f00-a017-11eb-96c4-321e1f8c35e2.jpg)
 
+- **Hasilnya :**
+
+![11](https://user-images.githubusercontent.com/56239989/115130279-b28a4f00-a018-11eb-932e-cba41828d0f8.jpg)
+
 **1. Buat html dan css untuk single layout ABOUT :**
 
 - **HTML**
