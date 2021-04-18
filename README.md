@@ -136,3 +136,40 @@
 - **Hasilnya :**
 
 ![33](https://user-images.githubusercontent.com/56239989/115128582-fffec000-a008-11eb-96bf-a3adf28f3239.jpg)
+
+
+# Pertanyaan dan Tugas
+
+![1](https://user-images.githubusercontent.com/56239989/115128783-6afcc680-a00a-11eb-9f9a-8b6abdb8d802.jpg)
+
+##Membuat tombol push untuk mengarahkan ke masing - masing Layout/halaman
+
+![11](https://user-images.githubusercontent.com/56239989/115130148-35120f00-a017-11eb-96c4-321e1f8c35e2.jpg)
+
+**1. Buat html dan css untuk single layout ABOUT :**
+
+- **HTML**
+
+![22](https://user-images.githubusercontent.com/56239989/115130176-80c4b880-a017-11eb-909a-c089057ebac7.jpg)
+
+- **CSS**
+
+![33](https://user-images.githubusercontent.com/56239989/115130180-87533000-a017-11eb-89bb-d1e51a71cf08.jpg)
+
+- **Hasilnya saat tombol ABOUT US di tekan akan menuju halaman berikut :**
+
+![11](https://user-images.githubusercontent.com/56239989/115130193-9d60f080-a017-11eb-8fe8-3f7dea972c74.jpg)
+
+**2. Buat html dan css untuk single layout Contact :**
+
+- **HTML**
+
+![11](https://user-images.githubusercontent.com/56239989/115130233-06486880-a018-11eb-9836-c906e7371568.jpg)
+
+- **CSS**
+
+![22](https://user-images.githubusercontent.com/56239989/115130236-0fd1d080-a018-11eb-9439-79d0aa6cc5b4.jpg)
+
+- **Hasilnya saat tombol CONTACT US di tekan akan menuju halaman berikut :**
+
+![33](https://user-images.githubusercontent.com/56239989/115130246-37c13400-a018-11eb-93b4-3c0a9932d935.jpg)
