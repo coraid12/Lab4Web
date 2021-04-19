@@ -1,7 +1,7 @@
 # Lab4Web
-NAMA  : FAHMI PRAYOGA
-NIM   : 311910682
-KEALS : TI.19.A.2
+- NAMA  : FAHMI PRAYOGA
+- NIM   : 311910682
+- KEALS : TI.19.A.2
 
 # Laporan Praktikum
 ## Langkah - Langkah Praktikum
