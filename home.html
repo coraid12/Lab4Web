@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout Sederhana</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="about.css">
+
+    <style>
+        a.tombol {
+           background-color:#00c3ff;
+           font:bold 30px arial,sans-serif;
+           text-decoration:none;
+           color:#fff;
+           margin:10px;
+           position:relative;
+           padding:3px 20px;
+           border-radius: 50px;
+           box-shadow: inset 0px 1px 0px #0004ff,
+                             0px 3px 0px 0px #808080,
+                             0px 5px 3px #0004ff;}
+        a.tombol:active {
+           background-color:#ff0000; top:3px;
+           box-shadow: inset 0px 1px 0px #0004ff,
+                             0px 1px 0px 0px #808080,
+                             0px 1px 3px #0004ff;}
+        </style>
+
+</head>
+<body>
+    <div id="container">
+
+    </div>
+
+<header>
+    <h1>Layout Sederhana</h1>
+</header>
+
+<nav>
+    <a href="home.html" class="active">Home</a>
+    <a href="artikel.html">Artikel</a>
+    <a href="about.html">About</a>
+    <a href="kontak.html">Kontak</a>
+</nav>
+<section id="hero"></section>
+<section id="wrapper">
+    <section id="main"></section>
+    <aside id="sidebar"></aside>
+</section>
+<section id="hero">
+    <h1>Hello World!</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem
+    elit, iaculis innisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla,
+    vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc
+    pretium ac.</p>
+    <a href="home.html" class="btn btn-large">Learn more &raquo;</a>
+</section>
+
+<section id="main">
+    <div class="row">
+        <div class="box">
+        <img src="https://dummyimage.com/120/db7d25/fff.png" alt=""
+class="image-circle">
+        <h3>Heading</h3>
+        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
+        <a href="#" class="btn btn-default">View detail</a>
+    </div>
+    <div class="box">
+        <img src="https://dummyimage.com/120/3e73e6/fff.png" alt=""
+class="image-circle">
+        <h3>Heading</h3>
+        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
+        <a href="#" class="btn btn-default">View detail</a>
+    </div>
+    <div class="box">
+        <img src="https://dummyimage.com/120/71e6d4/fff.png" alt=""
+class="image-circle">
+        <h3>Heading</h3>
+        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
+        <a href="#" class="btn btn-default">View detail</a>
+    </div>
+</div>
+</section>
+
+<aside id="sidebar">
+    <div class="widget-box">
+        <h3 class="title">Widget Header</h3>
+        <ul>
+            <li><a href="#">Widget Link</a></li>
+            <li><a href="#">Widget Link</a></li>
+            <li><a href="#">Widget Link</a></li>
+            <li><a href="#">Widget Link</a></li>
+            <li><a href="#">Widget Link</a></li>
+        </ul>
+    </div>
+    <div class="widget-box">
+        <h3 class="title">Widget Text</h3>
+        <p>Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt
+    arcu. Proin in leo fringilla, vestibulum mi porta, faucibus felis. Integer
+    pharetra est nunc, nec pretium nunc pretium ac.</p>
+        </div>  
+</aside>
+
+<hr class="divider" />
+<article class="entry">
+    <h2>First featurette heading.</h2>
+    <img src="https://dummyimage.com/150/7b8a70/fff.png" alt="">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem
+elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla,
+vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc
+pretium ac.</p>
+    </article>
+<hr class="divider" />
+<article class="entry">
+    <h2>First featurette heading.</h2>
+    <img src="https://dummyimage.com/150/7b8a70/fff.png" alt=""
+class="right-img">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem
+elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla,
+vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc
+pretium ac.</p>
+</article>
+
+<!--Pertanyaan Dan Tugas Layout About dan Contact-->
+
+    <hr align="left" width="200"/>
+    <a class="tombol" href="about.html">ABOUT US</a>
+    <a class="tombol" href="contact.html">CONTACT US</a>
+    <hr align="left" width="200"/>
+
+<footer>
+    <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+</footer>
+
+</body>
+</html>
